@@ -1,0 +1,19 @@
+[
+    {
+        "Version": 0.1,
+        "Author": "Amlei",
+        "Contact": "lixiang.altr@qq.com",
+        "Project": "The Keywords Search for Platform",
+        "Platform": [{
+            "抖音": {
+                "Last Keywords": {
+                }
+            }
+        },{
+            "百度": {
+                "Last Keywords": {
+                }
+            }
+        }]
+    }
+]
